@@ -1,0 +1,17 @@
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\Controls\NavButton.g.cs
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\MainWindow.g.cs
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\App.g.cs
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject_MarkupCompile.cache
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject_MarkupCompile.lref
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\Controls\NavButton.baml
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.exe
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.pdb
+C:\Larissa\WpfNewProject\WpfNewProject\bin\Debug\WpfNewProject.exe.config
+C:\Larissa\WpfNewProject\WpfNewProject\bin\Debug\WpfNewProject.exe
+C:\Larissa\WpfNewProject\WpfNewProject\bin\Debug\WpfNewProject.pdb
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\MainWindow.baml
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.g.resources
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.Properties.Resources.resources
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.csproj.GenerateResource.Cache
+C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.csprojResolveAssemblyReference.cache
