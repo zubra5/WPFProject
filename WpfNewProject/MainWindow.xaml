@@ -25,7 +25,7 @@
             </controls:NavButton>
 
             <controls:NavButton VerticalAlignment="Stretch" Grid.Row="2"  x:Name="nvgItem2" Title="Templates" Margin="0,29,0,0"  >
-                <ListBoxItem>first nvgItem2</ListBoxItem>
+                <ListBoxItem>first111 nvgItem2</ListBoxItem>
                 <ListBoxItem>second nvgItem2</ListBoxItem>
             </controls:NavButton>
         </Grid>

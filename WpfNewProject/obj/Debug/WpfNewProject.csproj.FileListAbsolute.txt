@@ -15,3 +15,6 @@ C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.g.resources
 C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.Properties.Resources.resources
 C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.csproj.GenerateResource.Cache
 C:\Larissa\WpfNewProject\WpfNewProject\obj\Debug\WpfNewProject.csprojResolveAssemblyReference.cache
+C:\Users\Larissa_Savchenko\Documents\Visual Studio 2013\Projects\1112\WPFProject\WpfNewProject\bin\Debug\WpfNewProject.exe.config
+C:\Users\Larissa_Savchenko\Documents\Visual Studio 2013\Projects\1112\WPFProject\WpfNewProject\obj\Debug\WpfNewProject.exe
+C:\Users\Larissa_Savchenko\Documents\Visual Studio 2013\Projects\1112\WPFProject\WpfNewProject\obj\Debug\WpfNewProject.pdb
